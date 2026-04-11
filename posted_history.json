@@ -364,6 +364,15 @@
       "slot": "средний",
       "ending": "комментарий",
       "source": "elevenlabs.io/blog/how-to-add-sound-effects-to-your-video-with-elevenlabs-video-to-sound-generator"
+    },
+    {
+      "date": "2026-04-11T20:12:00Z",
+      "title": "Запускаем несколько агентов параллельно — Cursor 3",
+      "topic": "cursor-3-agents-parallel-guide",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
+      "source": "cursor.com/blog/cursor-3"
     }
   ]
 }
