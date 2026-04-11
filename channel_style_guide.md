@@ -212,21 +212,20 @@
 
 ## КАРТИНКИ: ШРИФТ И СТИЛЬ
 
-### Шрифт: Soyuz Grotesk Bold
+### Шрифт: Muller Bold
 Загружай через FontFace API перед рисованием на canvas:
 ```
-const font = new FontFace('Soyuz Grotesk',
-  'url(https://db.onlinewebfonts.com/t/2d9f8eba44c6cc97753724bedd5d9f28.woff2) format("woff2")');
+const font = new FontFace('MullerBold',
+  'url(https://db.onlinewebfonts.com/t/ae28b5730ba85dc3a4ad1ccfcf376ff0.woff2) format("woff2")');
 await font.load();
 document.fonts.add(font);
 ```
 
 ### Размеры текста на canvas 1600x900
-- Заголовок (1-2 слова): bold 160px Soyuz Grotesk
-- Заголовок (3+ слов): bold 120px Soyuz Grotesk
-- Подзаголовок: bold 48px Soyuz Grotesk
-- Детали: 24px sans-serif
-- VisionAI: 18px sans-serif
+- Заголовок: bold 72px MullerBold
+- Подзаголовок: bold 28px MullerBold
+- Детали: 20px sans-serif
+- VisionAI: 16px sans-serif
 
 ### Затемнение (при картинке-источнике)
 Градиент снизу сильный: от rgba(10,5,20,0) до rgba(10,5,20,0.97).
