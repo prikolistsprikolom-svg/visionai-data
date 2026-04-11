@@ -300,6 +300,13 @@
       "topic": "engagement-claude-chatgpt-gemini-main",
       "type": "вовлечение",
       "source": "original"
+    },
+    {
+      "date": "2026-04-11T10:57:00Z",
+      "title": "Claude Cowork вышел из беты и стал официальным",
+      "topic": "claude-cowork-ga",
+      "type": "новость",
+      "source": "releasebot.io/updates/anthropic/claude"
     }
   ]
 }
