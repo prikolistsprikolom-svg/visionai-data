@@ -1,0 +1,62 @@
+{
+  "_comment": "Источники контента для канала. fetch=true — можно web_fetch напрямую. fetch=false — искать через WebSearch.",
+  "daily_digests": [
+    {"name": "The Decoder", "url": "https://the-decoder.com/", "fetch": true, "rubrics": ["новость", "мир_ai"], "note": "100% AI-фокус, несколько статей/день"},
+    {"name": "TLDR AI", "url": "https://tldr.tech/ai", "fetch": true, "rubrics": ["новость", "мир_ai"], "note": "Ежедневный дайджест, техническая подача"},
+    {"name": "Ben's Bites Daily", "url": "https://news.bensbites.com/", "fetch": true, "rubrics": ["новость", "мир_ai"], "note": "AI-стартапы, новые инструменты"},
+    {"name": "The Rundown AI", "url": "https://www.therundown.ai/", "fetch": false, "rubrics": ["новость", "мир_ai"], "note": "2M+ подписчиков, WebSearch 'site:therundown.ai'"},
+    {"name": "Superhuman AI", "url": "https://www.superhuman.ai/", "fetch": false, "rubrics": ["новость", "мир_ai"], "note": "1.5M+ подписчиков, WebSearch 'site:superhuman.ai'"},
+    {"name": "The Neuron", "url": "https://www.theneurondaily.com/", "fetch": false, "rubrics": ["новость", "мир_ai"], "note": "675K подписчиков, WebSearch 'site:theneurondaily.com'"}
+  ],
+  "tech_news": [
+    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/", "fetch": true, "rubrics": ["новость", "мир_ai", "кейс"], "note": "Стартапы, раунды, запуски"},
+    {"name": "The Verge AI", "url": "https://www.theverge.com/ai-artificial-intelligence", "fetch": true, "rubrics": ["новость", "мир_ai"], "note": "Потребительские AI-новости, обзоры"},
+    {"name": "9to5Google AI", "url": "https://9to5google.com/guides/google-ai/", "fetch": true, "rubrics": ["новость"], "note": "Быстрее всех по Gemini, утечки через APK"},
+    {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/", "fetch": true, "rubrics": ["мир_ai"], "note": "Глубокая аналитика, ethics"},
+    {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/", "fetch": false, "rubrics": ["новость", "кейс"], "note": "Rate-limited, WebSearch 'site:venturebeat.com ai'"}
+  ],
+  "official_blogs": [
+    {"name": "Anthropic News", "url": "https://www.anthropic.com/news", "fetch": true, "rubrics": ["новость"], "product": "Claude"},
+    {"name": "Cursor Blog", "url": "https://cursor.com/blog", "fetch": true, "rubrics": ["новость", "гайд"], "product": "Cursor"},
+    {"name": "Google DeepMind Blog", "url": "https://deepmind.google/discover/blog/", "fetch": true, "rubrics": ["новость", "мир_ai"], "product": "Gemini"},
+    {"name": "Meta AI Blog", "url": "https://ai.meta.com/blog/", "fetch": true, "rubrics": ["мир_ai"], "product": "Llama"},
+    {"name": "Higgsfield Blog", "url": "https://higgsfield.ai/blog", "fetch": true, "rubrics": ["новость", "гайд"], "product": "Higgsfield"},
+    {"name": "Suno Blog", "url": "https://suno.com/blog", "fetch": true, "rubrics": ["новость"], "product": "Suno"},
+    {"name": "ElevenLabs Blog", "url": "https://elevenlabs.io/blog", "fetch": true, "rubrics": ["новость", "кейс"], "product": "ElevenLabs"},
+    {"name": "Figma Blog", "url": "https://figma.com/blog/", "fetch": true, "rubrics": ["новость"], "product": "Figma"},
+    {"name": "OpenAI Blog", "url": "https://openai.com/blog/", "fetch": false, "rubrics": ["новость"], "product": "ChatGPT", "note": "403, WebSearch 'site:openai.com/blog'"},
+    {"name": "Canva Newsroom", "url": "https://canva.com/newsroom/", "fetch": false, "rubrics": ["новость"], "product": "Canva", "note": "403, WebSearch 'site:canva.com/newsroom'"}
+  ],
+  "reddit": {
+    "_comment": "Reddit блокирует прямой fetch. Искать через WebSearch 'site:reddit.com/r/[sub] [тема]'",
+    "guides_prompts": [
+      {"name": "r/ChatGPT", "url": "https://www.reddit.com/r/ChatGPT/", "subs": "11.4M", "rubrics": ["гайд", "промпт"]},
+      {"name": "r/ClaudeAI", "url": "https://www.reddit.com/r/ClaudeAI/", "subs": "688K", "rubrics": ["гайд", "промпт"]},
+      {"name": "r/PromptEngineering", "url": "https://www.reddit.com/r/PromptEngineering/", "subs": "301K", "rubrics": ["промпт"]},
+      {"name": "r/cursor", "url": "https://www.reddit.com/r/cursor/", "subs": "77K", "rubrics": ["гайд"]},
+      {"name": "r/LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/", "subs": "671K", "rubrics": ["мир_ai", "гайд"]}
+    ],
+    "showcase": [
+      {"name": "r/midjourney", "url": "https://www.reddit.com/r/midjourney/", "subs": "1.7M", "rubrics": ["шоукейс"]},
+      {"name": "r/StableDiffusion", "url": "https://www.reddit.com/r/StableDiffusion/", "subs": "919K", "rubrics": ["шоукейс"]}
+    ],
+    "cases": [
+      {"name": "r/SaaS", "url": "https://www.reddit.com/r/SaaS/", "subs": "386K", "rubrics": ["кейс"]},
+      {"name": "r/Entrepreneur", "url": "https://www.reddit.com/r/Entrepreneur/", "subs": "2.8M", "rubrics": ["кейс"]}
+    ]
+  },
+  "forums": [
+    {"name": "Cursor Forum Showcase", "url": "https://forum.cursor.com/c/showcase/built-with-cursor/18", "fetch": true, "rubrics": ["шоукейс", "кейс"], "note": "Реальные проекты на Cursor"}
+  ],
+  "russian": [
+    {"name": "Habr AI", "url": "https://habr.com/ru/hubs/artificial_intelligence/articles/", "fetch": true, "rubrics": ["гайд", "мир_ai", "кейс"], "note": "Технически глубокие статьи"},
+    {"name": "vc.ru AI", "url": "https://vc.ru/ai", "fetch": true, "rubrics": ["новость", "кейс", "мир_ai"], "note": "Бизнес-AI, кейсы, инструменты"}
+  ],
+  "russian_telegram": [
+    {"name": "Hi, AI", "handle": "@hiaimedia", "rubrics": ["новость", "мир_ai"], "note": "Главный RU AI-канал"},
+    {"name": "эйай ньюз", "handle": "@ai_newz", "rubrics": ["мир_ai"], "note": "Артём Санакоев, ex-Meta"},
+    {"name": "Нейродвиж", "handle": "@neuraldvig", "rubrics": ["новость", "промпт"], "note": "Новости + мемы + промпты"},
+    {"name": "AI Happens", "handle": "@aihappens", "rubrics": ["кейс", "гайд"], "note": "Практические инсайты"},
+    {"name": "Точки над ИИ", "handle": "@TochkiNadAI", "rubrics": ["шоукейс"], "note": "Тесты AI-сервисов"}
+  ]
+}
