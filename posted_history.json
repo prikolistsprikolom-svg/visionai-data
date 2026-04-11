@@ -6,7 +6,8 @@
       "topic": "claude-dispatch-mobile",
       "type": "новость",
       "slot": "дневной",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-19T13:38:00Z",
@@ -14,7 +15,8 @@
       "topic": "midjourney-v8-sref",
       "type": "гайд",
       "slot": "дневной",
-      "source": "midjourney"
+      "source": "midjourney",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-19T13:52:00Z",
@@ -22,7 +24,8 @@
       "topic": "claude-scheduled-tasks-intro",
       "type": "гайд",
       "slot": "дневной",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-19T20:34:00Z",
@@ -30,7 +33,8 @@
       "topic": "claude-code-slash-commands",
       "type": "гайд",
       "slot": "вечерний",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-20T10:09:00Z",
@@ -38,7 +42,8 @@
       "topic": "claude-scheduled-tasks-part2",
       "type": "гайд",
       "slot": "утренний",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-20T10:16:00Z",
@@ -46,7 +51,8 @@
       "topic": "gemini-mac-app",
       "type": "новость",
       "slot": "утренний",
-      "source": "google"
+      "source": "google",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-20T19:32:00Z",
@@ -54,7 +60,8 @@
       "topic": "gpt54-mini-thinking-free",
       "type": "новость",
       "slot": "вечерний",
-      "source": "openai"
+      "source": "openai",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T01:49:00Z",
@@ -62,7 +69,8 @@
       "topic": "claude-code-btw-command",
       "type": "фича",
       "slot": "вечерний",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T02:07:00Z",
@@ -70,7 +78,8 @@
       "topic": "claude-md-guide",
       "type": "гайд",
       "slot": "вечерний",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T12:06:00Z",
@@ -78,7 +87,8 @@
       "topic": "higgsfield-camera-presets",
       "type": "гайд",
       "slot": "дневной",
-      "source": "higgsfield"
+      "source": "higgsfield",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T12:52:00Z",
@@ -86,7 +96,8 @@
       "topic": "claude-dispatch-vs-channels",
       "type": "новость",
       "slot": "дневной",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T15:50:00Z",
@@ -94,7 +105,8 @@
       "topic": "suno-prompt-formula",
       "type": "гайд",
       "slot": "дневной",
-      "source": "suno"
+      "source": "suno",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T17:08:00Z",
@@ -102,7 +114,8 @@
       "topic": "gamma-agent-feature",
       "type": "фича",
       "slot": "дневной",
-      "source": "gamma"
+      "source": "gamma",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T21:13:00Z",
@@ -110,7 +123,8 @@
       "topic": "telegram-proxy-setup",
       "type": "гайд",
       "slot": "вечерний",
-      "source": "telegram"
+      "source": "telegram",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T22:20:00Z",
@@ -118,7 +132,8 @@
       "topic": "gemini-31-pro-arc-agi",
       "type": "новость",
       "slot": "вечерний",
-      "source": "google"
+      "source": "google",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T10:10:00Z",
@@ -126,7 +141,8 @@
       "topic": "appstore-region-change-guide",
       "type": "гайд",
       "slot": "утренний",
-      "source": "apple"
+      "source": "apple",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T12:40:00Z",
@@ -134,7 +150,8 @@
       "topic": "claude-dispatch-guide",
       "type": "гайд",
       "slot": "дневной",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T15:02:00Z",
@@ -142,7 +159,8 @@
       "topic": "cursor-jetbrains-acp",
       "type": "новость",
       "slot": "дневной",
-      "source": "cursor"
+      "source": "cursor",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T17:03:00Z",
@@ -150,7 +168,8 @@
       "topic": "cursor-automations",
       "type": "фича",
       "slot": "дневной",
-      "source": "cursor"
+      "source": "cursor",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T19:05:00Z",
@@ -158,7 +177,8 @@
       "topic": "elevenlabs-voice-clone",
       "type": "гайд",
       "slot": "вечерний",
-      "source": "elevenlabs"
+      "source": "elevenlabs",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T21:21:00Z",
@@ -166,7 +186,8 @@
       "topic": "capcut-expansion-isolation",
       "type": "фича",
       "slot": "вечерний",
-      "source": "capcut"
+      "source": "capcut",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T11:33:00Z",
@@ -174,7 +195,8 @@
       "topic": "weekly-ai-news-digest",
       "type": "новость",
       "slot": "утренний",
-      "source": "mixed"
+      "source": "mixed",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T13:40:00Z",
@@ -182,7 +204,8 @@
       "topic": "cursor-composer2-kimi-scandal",
       "type": "новость",
       "slot": "дневной",
-      "source": "cursor"
+      "source": "cursor",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T17:57:00Z",
@@ -190,7 +213,8 @@
       "topic": "higgsfield-audio-voiceover",
       "type": "новость",
       "slot": "дневной",
-      "source": "higgsfield"
+      "source": "higgsfield",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T20:03:00Z",
@@ -198,7 +222,8 @@
       "topic": "chatgpt-interactive-physics",
       "type": "фича",
       "slot": "вечерний",
-      "source": "openai"
+      "source": "openai",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T22:55:00Z",
@@ -206,7 +231,8 @@
       "topic": "chatgpt-canvas-guide",
       "type": "гайд",
       "slot": "вечерний",
-      "source": "openai"
+      "source": "openai",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-24T13:13:00Z",
@@ -214,7 +240,8 @@
       "topic": "telega-mitm-trojan",
       "type": "новость",
       "slot": "дневной",
-      "source": "habr"
+      "source": "habr",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-24T17:20:00Z",
@@ -222,91 +249,104 @@
       "topic": "claude-computer-use",
       "type": "новость",
       "slot": "дневной",
-      "source": "anthropic"
+      "source": "anthropic",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-24T14:06:01Z",
       "title": "Figma теперь генерит дизайн прямо из VS Code",
       "topic": "figma-mcp-vscode-bidirectional",
       "type": "новость",
-      "source": "figma/github"
+      "source": "figma/github",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-24T17:12:11Z",
       "title": "Cursor написал 180к строк кода для Salesforce за 12 дней",
       "topic": "cursor-salesforce-legacy-coverage",
       "type": "кейс",
-      "source": "engineering.salesforce.com"
+      "source": "engineering.salesforce.com",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-26T15:23:38Z",
       "title": "Canva научилась разбирать картинки на слои",
       "topic": "canva-magic-layers",
       "type": "фича",
-      "source": "canva.com/newsroom/news/magic-layers"
+      "source": "canva.com/newsroom/news/magic-layers",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-29T14:15:00Z",
       "title": "Cursor vs Claude Code: кто жрёт меньше токенов",
       "topic": "cursor-vs-claude-code-tokens",
       "type": "батл",
-      "source": "levelup.gitconnected.com, builder.io"
+      "source": "levelup.gitconnected.com, builder.io",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-29T11:08:00Z",
       "title": "xAI запустили SuperGrok Lite за $10 в месяц",
       "topic": "supergrok-lite-10-launch",
       "type": "новость",
-      "source": "x.ai"
+      "source": "x.ai",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-29T18:52:00Z",
       "title": "5 хаков Veo 3 о которых молчит Google",
       "topic": "veo3-secret-prompting-hacks",
       "type": "промпт",
-      "source": "github.com/snubroot/Veo-3-Prompting-Guide"
+      "source": "github.com/snubroot/Veo-3-Prompting-Guide",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-29T17:11:40Z",
       "title": "Better.com посадил AI-голос от ElevenLabs на 100к звонков в месяц",
       "topic": "elevenlabs-bettercom-voice-agent-case",
       "type": "кейс",
-      "source": "elevenlabs.io/blog/better"
+      "source": "elevenlabs.io/blog/better",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-30T13:38:41Z",
       "title": "Suno v5.5: теперь AI поёт ТВОИМ голосом",
       "topic": "suno-v55-voices-clone",
       "type": "фича",
-      "source": "suno.com/blog/v5-5"
+      "source": "suno.com/blog/v5-5",
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-30T18:34:00Z",
       "title": "Делаем AI-персонажа который не меняет лицо в Higgsfield",
       "topic": "higgsfield-soul-id-guide",
       "type": "гайд",
-      "source": "higgsfield.ai/blog/sould-id-best-character-consistency"
+      "source": "higgsfield.ai/blog/sould-id-best-character-consistency",
+      "ending": "комментарий"
     },
     {
       "date": "2026-04-02T18:30:00Z",
       "title": "НейроНовости недели — всё важное за 1 минуту",
       "topic": "weekly-ai-news-digest-apr02",
       "type": "новость",
-      "source": "mixed"
+      "source": "mixed",
+      "ending": "комментарий"
     },
     {
       "date": "2026-04-10T18:18:00Z",
       "title": "Claude, ChatGPT или Gemini — кто ваш основной?",
       "topic": "engagement-claude-chatgpt-gemini-main",
       "type": "вовлечение",
-      "source": "original"
+      "source": "original",
+      "ending": "комментарий"
     },
     {
       "date": "2026-04-11T10:57:00Z",
       "title": "Claude Cowork вышел из беты и стал официальным",
       "topic": "claude-cowork-ga",
       "type": "новость",
-      "source": "releasebot.io/updates/anthropic/claude"
+      "source": "releasebot.io/updates/anthropic/claude",
+      "ending": "комментарий"
     }
   ]
 }
