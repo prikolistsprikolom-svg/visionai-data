@@ -357,13 +357,13 @@
       "source": "billboard.com, cbsnews.com, stereogum.com"
     },
     {
-      "date": "2026-04-11T19:18:00Z",
-      "title": "Cursor: /Generate Cursor Rules — команда которую мало кто юзает",
-      "topic": "cursor-generate-rules-command",
+      "date": "2026-04-11T19:24:00Z",
+      "title": "ElevenLabs: делает звуки к видео сам",
+      "topic": "elevenlabs-video-to-sound-sfx",
       "type": "фича",
       "slot": "средний",
       "ending": "комментарий",
-      "source": "medium.com/@daboigbae, forum.cursor.com"
+      "source": "elevenlabs.io/blog/how-to-add-sound-effects-to-your-video-with-elevenlabs-video-to-sound-generator"
     }
   ]
 }
