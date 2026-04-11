@@ -63,12 +63,12 @@
 ## CTA-ПРАВИЛА
 
 ### Когда НУЖЕН CTA (дневной слот):
-- Пост про генерацию (картинки, музыка, видео) → @VISIONAI_GENERATIONBOT + @visionai_manager
+- Пост про генерацию (картинки, музыка, видео) → @visionai_manager + @visionai_manager
 - Пост про платные подписки (Cursor Pro, Claude Pro и т.д.) → аккаунты через @visionai_manager
 - Если тема не связана с конкретным продуктом → «По вопросам: @visionai_manager» внизу
 
 ### Три формата CTA:
-1. Внизу отдельной строкой: «Попробовать: @VISIONAI_GENERATIONBOT»
+1. Внизу отдельной строкой: «Попробовать: @visionai_manager»
 2. Внутри гайда нативно: «взять можно через @visionai_manager»
 3. Мягко: «По вопросам: @visionai_manager»
 
