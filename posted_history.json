@@ -347,6 +347,14 @@
       "type": "новость",
       "source": "releasebot.io/updates/anthropic/claude",
       "ending": "комментарий"
+    },
+    {
+      "date": "2026-04-11T14:00:00Z",
+      "title": "Поэтесса из Миссисипи залутала контракт на $3M через Suno",
+      "topic": "xania-monet-suno-billboard-3m-deal",
+      "type": "шоукейс",
+      "ending": "вопрос",
+      "source": "billboard.com, cbsnews.com, stereogum.com"
     }
   ]
 }
