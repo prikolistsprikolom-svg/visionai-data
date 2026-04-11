@@ -355,6 +355,15 @@
       "type": "шоукейс",
       "ending": "вопрос",
       "source": "billboard.com, cbsnews.com, stereogum.com"
+    },
+    {
+      "date": "2026-04-11T19:18:00Z",
+      "title": "Cursor: /Generate Cursor Rules — команда которую мало кто юзает",
+      "topic": "cursor-generate-rules-command",
+      "type": "фича",
+      "slot": "средний",
+      "ending": "комментарий",
+      "source": "medium.com/@daboigbae, forum.cursor.com"
     }
   ]
 }
