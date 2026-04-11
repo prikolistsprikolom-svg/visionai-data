@@ -210,6 +210,34 @@
 4. Читатель мысленно начинает отвечать ещё до конца чтения
 5. ❌ НИКОГДА не делай из автора тупицу («может я промпт кривой пишу?», «что я упускаю?»)
 
+## КАРТИНКИ: ШРИФТ И СТИЛЬ
+
+### Шрифт: Soyuz Grotesk Bold
+Загружай через FontFace API перед рисованием на canvas:
+```
+const font = new FontFace('Soyuz Grotesk',
+  'url(https://db.onlinewebfonts.com/t/2d9f8eba44c6cc97753724bedd5d9f28.woff2) format("woff2")');
+await font.load();
+document.fonts.add(font);
+```
+
+### Размеры текста на canvas 1600x900
+- Заголовок (1-2 слова): bold 160px Soyuz Grotesk
+- Заголовок (3+ слов): bold 120px Soyuz Grotesk
+- Подзаголовок: bold 48px Soyuz Grotesk
+- Детали: 24px sans-serif
+- VisionAI: 18px sans-serif
+
+### Затемнение (при картинке-источнике)
+Градиент снизу сильный: от rgba(10,5,20,0) до rgba(10,5,20,0.97).
+Текст всегда читаем с телефона.
+
+### Качество
+weserv.nl: &w=1600&h=900&fit=cover&output=png&q=95
+Если оригинал < 800px → fallback canvas вместо пиксельного мусора.
+
+---
+
 ## СЛОВАРЬ ЖАРГОНА
 - "завезли" вместо "добавили"
 - "обкатали" вместо "протестировали"
