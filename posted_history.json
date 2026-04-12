@@ -384,13 +384,13 @@
       "source": "the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/"
     },
     {
-      "date": "2026-04-12T09:23:32Z",
-      "title": "Промпт для o3: чем короче, тем лучше",
-      "topic": "chatgpt-o3-minimal-prompt-technique",
-      "type": "промпт",
-      "slot": "средний",
+      "date": "2026-04-12T20:00:00Z",
+      "title": "Включаем самообучение BugBot в Cursor",
+      "topic": "cursor-bugbot-learned-rules",
+      "type": "гайд",
+      "slot": "тяжёлый",
       "ending": "комментарий",
-      "source": "natesnewsletter.substack.com/p/your-prompt-is-the-product-working"
+      "source": "cursor.com/blog/bugbot-learning"
     }
   ]
 }
