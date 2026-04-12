@@ -391,6 +391,15 @@
       "slot": "тяжёлый",
       "ending": "комментарий",
       "source": "cursor.com/blog/bugbot-learning"
+    },
+    {
+      "date": "2026-04-12T20:19:00Z",
+      "title": "Octopus Energy автоматизировал 44% клиентского саппорта через ChatGPT",
+      "topic": "octopus-energy-chatgpt-support-automation",
+      "type": "кейс",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
+      "source": "aiexpert.network/case-study-enhanced-customer-service-through-ai-at-octopus-energy"
     }
   ]
 }
