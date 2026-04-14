@@ -404,7 +404,7 @@
     {
       "date": "2026-04-14T10:11:00Z",
       "title": "Claude теперь во всём Office",
-      "topic": "claude-office-word-excel-pptx",
+      "topic": "claude-office-all-three-apps",
       "type": "новость",
       "slot": "лёгкий",
       "ending": "комментарий",
