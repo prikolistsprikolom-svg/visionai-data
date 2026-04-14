@@ -400,6 +400,15 @@
       "slot": "тяжёлый",
       "ending": "вопрос",
       "source": "aiexpert.network/case-study-enhanced-customer-service-through-ai-at-octopus-energy"
+    },
+    {
+      "date": "2026-04-14T10:11:00Z",
+      "title": "Claude теперь во всём Office",
+      "topic": "claude-office-word-excel-pptx",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "комментарий",
+      "source": "the-decoder.com/claude-now-works-across-all-three-major-office-apps/"
     }
   ]
 }
