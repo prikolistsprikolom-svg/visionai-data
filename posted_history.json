@@ -410,6 +410,15 @@
       "source": "subscriber",
       "ending": "комментарий",
       "product": "Claude"
+    },
+    {
+      "date": "2026-04-15T10:12:39Z",
+      "title": "Gemini в Chrome теперь запоминает промпты",
+      "topic": "gemini-chrome-skills",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "вопрос",
+      "source": "the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/"
     }
   ]
 }
