@@ -437,6 +437,16 @@
       "slot": "лёгкий",
       "ending": "комментарий",
       "source": "https://aistudio.google.com/generate-speech?model=gemini-3.1-flash-tts-preview"
+    },
+    {
+      "date": "2026-04-16T17:14:00Z",
+      "title": "Розыгрыш Higgsfield Creator на неделю",
+      "topic": "giveaway-higgsfield-creator-week-apr16",
+      "type": "розыгрыш",
+      "slot": "средний",
+      "ending": "вопрос",
+      "source": "original",
+      "product": "Higgsfield"
     }
   ]
 }
