@@ -428,6 +428,15 @@
       "slot": "средний",
       "ending": "комментарий",
       "source": "original"
+    },
+    {
+      "date": "2026-04-16T10:25:16Z",
+      "title": "Google снова лезет в озвучку: Gemini 3.1 Flash TTS",
+      "topic": "gemini-3-1-flash-tts",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "комментарий",
+      "source": "https://aistudio.google.com/generate-speech?model=gemini-3.1-flash-tts-preview"
     }
   ]
 }
