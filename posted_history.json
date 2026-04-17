@@ -437,6 +437,15 @@
       "slot": "средний",
       "ending": "комментарий",
       "source": "krea.ai/blog/realtime-edit"
+    },
+    {
+      "date": "2026-04-17T18:20:00Z",
+      "title": "ByteDance тихо запустил видеогенератор в 100+ странах. Кроме США",
+      "topic": "seedance-2-global-launch-no-us",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
+      "source": "https://the-decoder.com/bytedance-rolls-out-seedance-2-0-to-100-countries-but-keeps-the-us-off-the-list/"
     }
   ]
 }
