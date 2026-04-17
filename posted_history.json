@@ -437,6 +437,24 @@
       "slot": "средний",
       "ending": "комментарий",
       "source": "krea.ai/blog/realtime-edit"
+    },
+    {
+      "date": "2026-04-17T18:20:00Z",
+      "title": "ByteDance тихо запустил видеогенератор в 100+ странах. Кроме США",
+      "topic": "seedance-2-global-launch-no-us",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
+      "source": "https://the-decoder.com/bytedance-rolls-out-seedance-2-0-to-100-countries-but-keeps-the-us-off-the-list/"
+    },
+    {
+      "date": "2026-04-17T20:39:00Z",
+      "title": "Дизайнеры клонируют бренд-маскота в 30 сценах за день через Midjourney",
+      "topic": "midjourney-v7-omni-reference-brand-mascot",
+      "type": "шоукейс",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
+      "source": "flowith.io/blog/midjourney-v7-consistent-characters-masterclass"
     }
   ]
 }
