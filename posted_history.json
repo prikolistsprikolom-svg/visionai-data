@@ -428,6 +428,15 @@
       "slot": "средний",
       "ending": "комментарий",
       "source": "original"
+    },
+    {
+      "date": "2026-04-17T14:16:00Z",
+      "title": "Krea AI: вебкамера как живая арт-инсталляция",
+      "topic": "krea-ai-realtime-canvas-webcam",
+      "type": "фича",
+      "slot": "средний",
+      "ending": "комментарий",
+      "source": "krea.ai/blog/realtime-edit"
     }
   ]
 }
