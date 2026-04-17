@@ -447,6 +447,15 @@
       "ending": "вопрос",
       "source": "original",
       "product": "Higgsfield"
+    },
+    {
+      "date": "2026-04-17T13:19:00Z",
+      "title": "Пекин запер основателей Manus в стране за продажу Meta",
+      "topic": "manus-meta-beijing-founders-banned",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
+      "source": "https://the-decoder.com/beijing-brands-metas-manus-acquisition-as-conspiratorial-and-bars-founders-from-leaving-china/"
     }
   ]
 }
