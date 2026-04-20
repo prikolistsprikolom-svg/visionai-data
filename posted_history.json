@@ -520,6 +520,15 @@
       "slot": "тяжёлый",
       "ending": "комментарий",
       "source": "https://www.make.com/en/templates/10867-generate-voice-overs-with-elevenlabs-from-wordpress-articles-and-upload-links-to-a-google-sheet"
+    },
+    {
+      "date": "2026-04-20T15:23:00Z",
+      "title": "FLUX Kontext: 100 брендовых фото товара за 20 минут за $4",
+      "topic": "flux-kontext-fal-sheets-bulk-product-shots",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
+      "source": "https://bfl.ai/announcements/flux-1-kontext"
     }
   ]
 }
