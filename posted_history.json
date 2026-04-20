@@ -491,6 +491,35 @@
       "slot": "лёгкий",
       "ending": "комментарий",
       "source": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
+    },
+    {
+      "date": "2026-04-20T18:12:00Z",
+      "title": "Money Forward посадил 1000 инженеров на Cursor и считает часы",
+      "topic": "money-forward-cursor-1000-engineers",
+      "type": "кейс",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
+      "source": "cursor.com/blog/money-forward",
+      "product": "Cursor"
+    },
+    {
+      "date": "2026-04-20T18:24:00Z",
+      "title": "Higgsfield генерит 4,5 млн видео в день через команду AI-агентов",
+      "topic": "higgsfield-multi-agent-sora2-pipeline",
+      "type": "шоукейс",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
+      "source": "eu.36kr.com/en/p/3650517574312323, vo3ai.com/blog/higgsfield-ignites-a-new-wave",
+      "product": "Higgsfield"
+    },
+    {
+      "date": "2026-04-20T14:55:20Z",
+      "title": "Массовая озвучка через ElevenLabs и Make: 100 роликов за час",
+      "topic": "elevenlabs-make-sheets-bulk-voiceover-pipeline",
+      "type": "шоукейс",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
+      "source": "https://www.make.com/en/templates/10867-generate-voice-overs-with-elevenlabs-from-wordpress-articles-and-upload-links-to-a-google-sheet"
     }
   ]
 }
