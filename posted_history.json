@@ -558,6 +558,15 @@
       "slot": "тяжёлый",
       "ending": "комментарий",
       "source": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples, https://support.claude.com/en/articles/12512198-how-to-create-custom-skills"
+    },
+    {
+      "date": "2026-04-22T16:00:01Z",
+      "title": "Как PM из Monday собрал себе второй мозг в ChatGPT",
+      "topic": "amir-klein-chatgpt-projects-second-brain",
+      "type": "кейс",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
+      "source": "https://www.lennysnewsletter.com/p/building-a-second-brain-with-ai"
     }
   ]
 }
