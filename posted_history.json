@@ -558,6 +558,16 @@
       "slot": "тяжёлый",
       "ending": "комментарий",
       "source": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples, https://support.claude.com/en/articles/12512198-how-to-create-custom-skills"
+    },
+    {
+      "date": "2026-04-22T16:13:44Z",
+      "title": "Формула Suno AI из 7 элементов, которая даёт 3 млн стримов",
+      "topic": "suno-7-element-prompt-formula-3m-streams",
+      "type": "шоукейс",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
+      "source": "https://travisnicholson.medium.com/this-single-suno-ai-prompt-generated-3m-streams-heres-how-3ca8c6cf081f",
+      "product": "Suno"
     }
   ]
 }
