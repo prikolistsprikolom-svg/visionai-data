@@ -568,6 +568,16 @@
       "ending": "вопрос",
       "source": "https://travisnicholson.medium.com/this-single-suno-ai-prompt-generated-3m-streams-heres-how-3ca8c6cf081f",
       "product": "Suno"
+    },
+    {
+      "date": "2026-04-23T13:23:50Z",
+      "title": "Розыгрыш Midjourney Pro на месяц",
+      "topic": "giveaway-midjourney-pro-month-apr23",
+      "type": "розыгрыш",
+      "slot": "средний",
+      "ending": "комментарий",
+      "source": "original",
+      "product": "Midjourney"
     }
   ]
 }
