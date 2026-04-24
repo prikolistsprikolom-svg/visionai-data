@@ -587,6 +587,16 @@
       "slot": "тяжёлый",
       "ending": "комментарий",
       "source": "higgsfield.ai/blog/SOUL-ID-Superior-Level-of-AI-Character-Consistency"
+    },
+    {
+      "date": "2026-04-24T09:46:32Z",
+      "title": "OpenAI выкатил GPT-5.5",
+      "topic": "openai-gpt-5-5-launch-6weeks-after-54",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "вопрос",
+      "source": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/, https://openai.com/index/introducing-gpt-5-5/",
+      "product": "ChatGPT"
     }
   ]
 }
