@@ -607,6 +607,15 @@
       "ending": "вопрос",
       "source": "mukeshkdesigns.com, beebom.com",
       "product": "Gemini"
+    },
+    {
+      "date": "2026-04-25T08:13:11Z",
+      "title": "Чел собирает n8n-воркфлоу за 10 минут вместо 3 часов",
+      "topic": "claude-n8n-mcp-solo-automator-case",
+      "type": "кейс",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
+      "source": "https://www.roborhythms.com/claude-n8n-workflow-2026/"
     }
   ]
 }
