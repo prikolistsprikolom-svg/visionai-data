@@ -2,599 +2,599 @@
   "posts": [
     {
       "date": "2026-03-19T13:27:00Z",
-      "title": "Claude ÑÐµÐ¿ÐµÑÑ Ð¼Ð¾Ð¶Ð½Ð¾ Ð´Ð°Ð²Ð°ÑÑ Ð·Ð°Ð´Ð°ÑÐ¸ Ð¿ÑÑÐ¼Ð¾ Ñ ÑÐµÐ»ÐµÑÐ¾Ð½Ð°",
+      "title": "Claude теперь можно давать задачи прямо с телефона",
       "topic": "claude-dispatch-mobile",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "новость",
+      "slot": "дневной",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-19T13:38:00Z",
-      "title": "ÐÐ°Ðº Ð·Ð°ÐºÑÐµÐ¿Ð¸ÑÑ ÑÑÐ¸Ð»Ñ Ð² Midjourney V8 ÑÐµÑÐµÐ· sref",
+      "title": "Как закрепить стиль в Midjourney V8 через sref",
       "topic": "midjourney-v8-sref",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "гайд",
+      "slot": "дневной",
       "source": "midjourney",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-19T13:52:00Z",
-      "title": "Ð¯ Ð¿Ð¾ÑÑÐ°Ð²Ð¸Ð» ÑÑÑÐ¸Ð½Ñ Ð½Ð° Ð°Ð²ÑÐ¾Ð¿Ð¸Ð»Ð¾Ñ ÑÐµÑÐµÐ· Claude",
+      "title": "Я поставил рутину на автопилот через Claude",
       "topic": "claude-scheduled-tasks-intro",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "гайд",
+      "slot": "дневной",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-19T20:34:00Z",
-      "title": "ÐÑÐµ Ð¿Ð¾Ð»ÐµÐ·Ð½ÑÐµ slash-ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ Ð´Ð»Ñ Claude Code",
+      "title": "Все полезные slash-команды для Claude Code",
       "topic": "claude-code-slash-commands",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "гайд",
+      "slot": "вечерний",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-20T10:09:00Z",
-      "title": "Ð§ÑÐ¾ ÐµÑÑ Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾ÑÑÐ°Ð²Ð¸ÑÑ Ð½Ð° Ð°Ð²ÑÐ¾Ð¿Ð¸Ð»Ð¾Ñ ÑÐµÑÐµÐ· Claude â Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ðµ",
+      "title": "Что ещё можно поставить на автопилот через Claude — продолжение",
       "topic": "claude-scheduled-tasks-part2",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "ÑÑÑÐµÐ½Ð½Ð¸Ð¹",
+      "type": "гайд",
+      "slot": "утренний",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-20T10:16:00Z",
-      "title": "Google ÑÐµÑÑÐ¸ÑÑÐµÑ Ð½Ð°ÑÐ¸Ð²Ð½Ð¾Ðµ Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Gemini Ð´Ð»Ñ Mac",
+      "title": "Google тестирует нативное приложение Gemini для Mac",
       "topic": "gemini-mac-app",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "ÑÑÑÐµÐ½Ð½Ð¸Ð¹",
+      "type": "новость",
+      "slot": "утренний",
       "source": "google",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-20T19:32:00Z",
-      "title": "ChatGPT Ð´Ð°Ð» ÑÐµÐ¶Ð¸Ð¼ Thinking Ð±ÐµÑÐ¿Ð»Ð°ÑÐ½ÑÐ¼ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ¼ ÑÐµÑÐµÐ· GPT-5.4 mini",
+      "title": "ChatGPT дал режим Thinking бесплатным пользователям через GPT-5.4 mini",
       "topic": "gpt54-mini-thinking-free",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "новость",
+      "slot": "вечерний",
       "source": "openai",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T01:49:00Z",
-      "title": "Ð Claude Code Ð¿Ð¾ÑÐ²Ð¸Ð»Ð°ÑÑ /btw",
+      "title": "В Claude Code появилась /btw",
       "topic": "claude-code-btw-command",
-      "type": "ÑÐ¸ÑÐ°",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "фича",
+      "slot": "вечерний",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T02:07:00Z",
-      "title": "ÐÑÑ Ð¿Ð¾Ð»ÐµÐ·Ð½Ð¾Ðµ Ð¾ CLAUDE.md",
+      "title": "Всё полезное о CLAUDE.md",
       "topic": "claude-md-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "гайд",
+      "slot": "вечерний",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T12:06:00Z",
-      "title": "ÐÐ°Ðº ÑÐ´ÐµÐ»Ð°ÑÑ Ð²Ð¸Ð´ÐµÐ¾ Ð² Higgsfield ÐºÐ¸Ð½ÐµÐ¼Ð°ÑÐ¾Ð³ÑÐ°ÑÐ¸ÑÐ½ÑÐ¼",
+      "title": "Как сделать видео в Higgsfield кинематографичным",
       "topic": "higgsfield-camera-presets",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "гайд",
+      "slot": "дневной",
       "source": "higgsfield",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T12:52:00Z",
-      "title": "Claude Dispatch Ð¸ Claude Channels",
+      "title": "Claude Dispatch и Claude Channels",
       "topic": "claude-dispatch-vs-channels",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "новость",
+      "slot": "дневной",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T15:50:00Z",
-      "title": "Ð¤Ð¾ÑÐ¼ÑÐ»Ð° Ð¿ÑÐ¾Ð¼Ð¿ÑÐ° Ð² Suno ÐºÐ¾ÑÐ¾ÑÐ°Ñ Ð´Ð°ÑÑ ÐºÑÑÑÑÐµ ÑÑÐµÐºÐ¸",
+      "title": "Формула промпта в Suno которая даёт крутые треки",
       "topic": "suno-prompt-formula",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "гайд",
+      "slot": "дневной",
       "source": "suno",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T17:08:00Z",
-      "title": "Gamma Agent â ÑÑÐ½ÐºÑÐ¸Ñ ÐºÐ¾ÑÐ¾ÑÑÑ Ð½Ð¸ÐºÑÐ¾ Ð½Ðµ ÑÐ·Ð°ÐµÑ",
+      "title": "Gamma Agent — функция которую никто не юзает",
       "topic": "gamma-agent-feature",
-      "type": "ÑÐ¸ÑÐ°",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "фича",
+      "slot": "дневной",
       "source": "gamma",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T21:13:00Z",
-      "title": "ÐÐ°Ðº Ð¿Ð¾Ð´Ð½ÑÑÑ ÑÐ²Ð¾Ð¹ Telegram-Ð¿ÑÐ¾ÐºÑÐ¸ Ð·Ð° 10 Ð¼Ð¸Ð½ÑÑ",
+      "title": "Как поднять свой Telegram-прокси за 10 минут",
       "topic": "telegram-proxy-setup",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "гайд",
+      "slot": "вечерний",
       "source": "telegram",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-21T22:20:00Z",
-      "title": "Gemini 3.1 Pro Ð·Ð°Ð½ÑÐ» Ð¿ÐµÑÐ²Ð¾Ðµ Ð¼ÐµÑÑÐ¾ Ð½Ð° ARC-AGI-2",
+      "title": "Gemini 3.1 Pro занял первое место на ARC-AGI-2",
       "topic": "gemini-31-pro-arc-agi",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "новость",
+      "slot": "вечерний",
       "source": "google",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T10:10:00Z",
-      "title": "ÐÐ°Ðº ÑÐºÐ°ÑÐ°ÑÑ ChatGPT Claude Ð¸ Gemini Ð½Ð° iPhone ÐµÑÐ»Ð¸ Ð¾Ð½Ð¸ Ð½ÐµÐ´Ð¾ÑÑÑÐ¿Ð½Ñ Ð² Ð Ð¤",
+      "title": "Как скачать ChatGPT Claude и Gemini на iPhone если они недоступны в РФ",
       "topic": "appstore-region-change-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "ÑÑÑÐµÐ½Ð½Ð¸Ð¹",
+      "type": "гайд",
+      "slot": "утренний",
       "source": "apple",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T12:40:00Z",
-      "title": "Claude Dispatch â Ð¿Ð¾ÑÐ°Ð³Ð¾Ð²ÑÐ¹ Ð³Ð°Ð¹Ð´",
+      "title": "Claude Dispatch — пошаговый гайд",
       "topic": "claude-dispatch-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "гайд",
+      "slot": "дневной",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T15:02:00Z",
-      "title": "Cursor ÑÐµÐ¿ÐµÑÑ ÑÐ°Ð±Ð¾ÑÐ°ÐµÑ Ð¿ÑÑÐ¼Ð¾ Ð²Ð½ÑÑÑÐ¸ JetBrains",
+      "title": "Cursor теперь работает прямо внутри JetBrains",
       "topic": "cursor-jetbrains-acp",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "новость",
+      "slot": "дневной",
       "source": "cursor",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T17:03:00Z",
-      "title": "Cursor Automations â Ð°Ð³ÐµÐ½ÑÑ ÐºÐ¾ÑÐ¾ÑÑÐµ ÑÐ¸Ð½ÑÑ Ð±Ð°Ð³Ð¸ Ð¿Ð¾ÐºÐ° ÑÑ ÑÐ¿Ð¸ÑÑ",
+      "title": "Cursor Automations — агенты которые чинят баги пока ты спишь",
       "topic": "cursor-automations",
-      "type": "ÑÐ¸ÑÐ°",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "фича",
+      "slot": "дневной",
       "source": "cursor",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T19:05:00Z",
-      "title": "ÐÐ»Ð¾Ð½Ð¸ÑÐ¾Ð²Ð°Ð» ÑÐ²Ð¾Ð¹ Ð³Ð¾Ð»Ð¾Ñ Ð² ElevenLabs Ð·Ð° 30 ÑÐµÐºÑÐ½Ð´",
+      "title": "Клонировал свой голос в ElevenLabs за 30 секунд",
       "topic": "elevenlabs-voice-clone",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "гайд",
+      "slot": "вечерний",
       "source": "elevenlabs",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-22T21:21:00Z",
-      "title": "ÐÐ²Ðµ ÑÐ¸ÑÐ¸ CapCut ÐºÐ¾ÑÐ¾ÑÑÐµ Ñ Ð½Ð°ÑÑÐ» ÑÐ¾Ð»ÑÐºÐ¾ ÑÐµÑÐµÐ· Ð¿Ð¾Ð»Ð³Ð¾Ð´Ð°",
+      "title": "Две фичи CapCut которые я нашёл только через полгода",
       "topic": "capcut-expansion-isolation",
-      "type": "ÑÐ¸ÑÐ°",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "фича",
+      "slot": "вечерний",
       "source": "capcut",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T11:33:00Z",
-      "title": "ÐÐµÐ¹ÑÐ¾ÐÐ¾Ð²Ð¾ÑÑÐ¸ Ð½ÐµÐ´ÐµÐ»Ð¸ â Ð²ÑÑ Ð²Ð°Ð¶Ð½Ð¾Ðµ Ð·Ð° 1 Ð¼Ð¸Ð½ÑÑÑ",
+      "title": "НейроНовости недели — всё важное за 1 минуту",
       "topic": "weekly-ai-news-digest",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "ÑÑÑÐµÐ½Ð½Ð¸Ð¹",
+      "type": "новость",
+      "slot": "утренний",
       "source": "mixed",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T13:40:00Z",
-      "title": "Cursor Ð²ÑÐ¿ÑÑÑÐ¸Ð» Composer 2 Ð¸ ÑÐºÑÑÐ» ÑÑÐ¾ ÑÑÐ¾ ÐºÐ¸ÑÐ°Ð¹ÑÐºÐ°Ñ Ð¼Ð¾Ð´ÐµÐ»Ñ",
+      "title": "Cursor выпустил Composer 2 и скрыл что это китайская модель",
       "topic": "cursor-composer2-kimi-scandal",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "новость",
+      "slot": "дневной",
       "source": "cursor",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T17:57:00Z",
-      "title": "Higgsfield Ð·Ð°Ð¿ÑÑÑÐ¸Ð» Ð°ÑÐ´Ð¸Ð¾",
+      "title": "Higgsfield запустил аудио",
       "topic": "higgsfield-audio-voiceover",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "новость",
+      "slot": "дневной",
       "source": "higgsfield",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T20:03:00Z",
-      "title": "ChatGPT ÑÐµÐ¿ÐµÑÑ Ð¾Ð±ÑÑÑÐ½ÑÐµÑ ÑÐ¸Ð·Ð¸ÐºÑ Ð¸ Ð¼Ð°ÑÐµÐ¼Ð°ÑÐ¸ÐºÑ Ð² Ð¸Ð½ÑÐµÑÐ°ÐºÑÐ¸Ð²Ð½Ð¾Ð¼ ÑÐµÐ¶Ð¸Ð¼Ðµ",
+      "title": "ChatGPT теперь объясняет физику и математику в интерактивном режиме",
       "topic": "chatgpt-interactive-physics",
-      "type": "ÑÐ¸ÑÐ°",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "фича",
+      "slot": "вечерний",
       "source": "openai",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-23T22:55:00Z",
-      "title": "ChatGPT Canvas â Ð±Ð¾Ð»ÑÑÐ¸Ð½ÑÑÐ²Ð¾ Ð¾ÑÐºÑÑÐ²Ð°ÐµÑ Ð¸ ÑÑÐ°Ð·Ñ Ð·Ð°ÐºÑÑÐ²Ð°ÐµÑ",
+      "title": "ChatGPT Canvas — большинство открывает и сразу закрывает",
       "topic": "chatgpt-canvas-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "Ð²ÐµÑÐµÑÐ½Ð¸Ð¹",
+      "type": "гайд",
+      "slot": "вечерний",
       "source": "openai",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-24T13:13:00Z",
-      "title": "Telega ÑÑÐ¾ ÑÑÐ¾ÑÐ½",
+      "title": "Telega это троян",
       "topic": "telega-mitm-trojan",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "новость",
+      "slot": "дневной",
       "source": "habr",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-24T17:20:00Z",
-      "title": "Claude Ð½Ð°ÑÑÐ¸Ð»ÑÑ ÑÐ¿ÑÐ°Ð²Ð»ÑÑÑ ÑÐ²Ð¾Ð¸Ð¼ ÐºÐ¾Ð¼Ð¿Ð¾Ð¼",
+      "title": "Claude научился управлять твоим компом",
       "topic": "claude-computer-use",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "новость",
+      "slot": "дневной",
       "source": "anthropic",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-24T14:06:01Z",
-      "title": "Figma ÑÐµÐ¿ÐµÑÑ Ð³ÐµÐ½ÐµÑÐ¸Ñ Ð´Ð¸Ð·Ð°Ð¹Ð½ Ð¿ÑÑÐ¼Ð¾ Ð¸Ð· VS Code",
+      "title": "Figma теперь генерит дизайн прямо из VS Code",
       "topic": "figma-mcp-vscode-bidirectional",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
+      "type": "новость",
       "source": "figma/github",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-24T17:12:11Z",
-      "title": "Cursor Ð½Ð°Ð¿Ð¸ÑÐ°Ð» 180Ðº ÑÑÑÐ¾Ðº ÐºÐ¾Ð´Ð° Ð´Ð»Ñ Salesforce Ð·Ð° 12 Ð´Ð½ÐµÐ¹",
+      "title": "Cursor написал 180к строк кода для Salesforce за 12 дней",
       "topic": "cursor-salesforce-legacy-coverage",
-      "type": "ÐºÐµÐ¹Ñ",
+      "type": "кейс",
       "source": "engineering.salesforce.com",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-26T15:23:38Z",
-      "title": "Canva Ð½Ð°ÑÑÐ¸Ð»Ð°ÑÑ ÑÐ°Ð·Ð±Ð¸ÑÐ°ÑÑ ÐºÐ°ÑÑÐ¸Ð½ÐºÐ¸ Ð½Ð° ÑÐ»Ð¾Ð¸",
+      "title": "Canva научилась разбирать картинки на слои",
       "topic": "canva-magic-layers",
-      "type": "ÑÐ¸ÑÐ°",
+      "type": "фича",
       "source": "canva.com/newsroom/news/magic-layers",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-29T14:15:00Z",
-      "title": "Cursor vs Claude Code: ÐºÑÐ¾ Ð¶ÑÑÑ Ð¼ÐµÐ½ÑÑÐµ ÑÐ¾ÐºÐµÐ½Ð¾Ð²",
+      "title": "Cursor vs Claude Code: кто жрёт меньше токенов",
       "topic": "cursor-vs-claude-code-tokens",
-      "type": "Ð±Ð°ÑÐ»",
+      "type": "батл",
       "source": "levelup.gitconnected.com, builder.io",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-29T11:08:00Z",
-      "title": "xAI Ð·Ð°Ð¿ÑÑÑÐ¸Ð»Ð¸ SuperGrok Lite Ð·Ð° $10 Ð² Ð¼ÐµÑÑÑ",
+      "title": "xAI запустили SuperGrok Lite за $10 в месяц",
       "topic": "supergrok-lite-10-launch",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
+      "type": "новость",
       "source": "x.ai",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-29T18:52:00Z",
-      "title": "5 ÑÐ°ÐºÐ¾Ð² Veo 3 Ð¾ ÐºÐ¾ÑÐ¾ÑÑÑ Ð¼Ð¾Ð»ÑÐ¸Ñ Google",
+      "title": "5 хаков Veo 3 о которых молчит Google",
       "topic": "veo3-secret-prompting-hacks",
-      "type": "Ð¿ÑÐ¾Ð¼Ð¿Ñ",
+      "type": "промпт",
       "source": "github.com/snubroot/Veo-3-Prompting-Guide",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-29T17:11:40Z",
-      "title": "Better.com Ð¿Ð¾ÑÐ°Ð´Ð¸Ð» AI-Ð³Ð¾Ð»Ð¾Ñ Ð¾Ñ ElevenLabs Ð½Ð° 100Ðº Ð·Ð²Ð¾Ð½ÐºÐ¾Ð² Ð² Ð¼ÐµÑÑÑ",
+      "title": "Better.com посадил AI-голос от ElevenLabs на 100к звонков в месяц",
       "topic": "elevenlabs-bettercom-voice-agent-case",
-      "type": "ÐºÐµÐ¹Ñ",
+      "type": "кейс",
       "source": "elevenlabs.io/blog/better",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-30T13:38:41Z",
-      "title": "Suno v5.5: ÑÐµÐ¿ÐµÑÑ AI Ð¿Ð¾ÑÑ Ð¢ÐÐÐÐ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð¼",
+      "title": "Suno v5.5: теперь AI поёт ТВОИМ голосом",
       "topic": "suno-v55-voices-clone",
-      "type": "ÑÐ¸ÑÐ°",
+      "type": "фича",
       "source": "suno.com/blog/v5-5",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-03-30T18:34:00Z",
-      "title": "ÐÐµÐ»Ð°ÐµÐ¼ AI-Ð¿ÐµÑÑÐ¾Ð½Ð°Ð¶Ð° ÐºÐ¾ÑÐ¾ÑÑÐ¹ Ð½Ðµ Ð¼ÐµÐ½ÑÐµÑ Ð»Ð¸ÑÐ¾ Ð² Higgsfield",
+      "title": "Делаем AI-персонажа который не меняет лицо в Higgsfield",
       "topic": "higgsfield-soul-id-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
+      "type": "гайд",
       "source": "higgsfield.ai/blog/sould-id-best-character-consistency",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-04-02T18:30:00Z",
-      "title": "ÐÐµÐ¹ÑÐ¾ÐÐ¾Ð²Ð¾ÑÑÐ¸ Ð½ÐµÐ´ÐµÐ»Ð¸ â Ð²ÑÑ Ð²Ð°Ð¶Ð½Ð¾Ðµ Ð·Ð° 1 Ð¼Ð¸Ð½ÑÑÑ",
+      "title": "НейроНовости недели — всё важное за 1 минуту",
       "topic": "weekly-ai-news-digest-apr02",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
+      "type": "новость",
       "source": "mixed",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-04-10T18:18:00Z",
-      "title": "Claude, ChatGPT Ð¸Ð»Ð¸ Gemini â ÐºÑÐ¾ Ð²Ð°Ñ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹?",
+      "title": "Claude, ChatGPT или Gemini — кто ваш основной?",
       "topic": "engagement-claude-chatgpt-gemini-main",
-      "type": "Ð²Ð¾Ð²Ð»ÐµÑÐµÐ½Ð¸Ðµ",
+      "type": "вовлечение",
       "source": "original",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-04-11T10:57:00Z",
-      "title": "Claude Cowork Ð²ÑÑÐµÐ» Ð¸Ð· Ð±ÐµÑÑ Ð¸ ÑÑÐ°Ð» Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½ÑÐ¼",
+      "title": "Claude Cowork вышел из беты и стал официальным",
       "topic": "claude-cowork-ga",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
+      "type": "новость",
       "source": "releasebot.io/updates/anthropic/claude",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹"
+      "ending": "комментарий"
     },
     {
       "date": "2026-04-11T14:07:00Z",
-      "title": "ÐÐ¾ÑÑÐµÑÑÐ° Ð¸Ð· ÐÐ¸ÑÑÐ¸ÑÐ¸Ð¿Ð¸ Ð·Ð°Ð»ÑÑÐ°Ð»Ð° ÐºÐ¾Ð½ÑÑÐ°ÐºÑ Ð½Ð° $3 Ð¼Ð»Ð½ ÑÐµÑÐµÐ· Suno",
+      "title": "Поэтесса из Миссисипи залутала контракт на $3 млн через Suno",
       "topic": "xania-monet-suno-billboard-3m-deal",
-      "type": "ÑÐ¾ÑÐºÐµÐ¹Ñ",
-      "ending": "Ð²Ð¾Ð¿ÑÐ¾Ñ",
+      "type": "шоукейс",
+      "ending": "вопрос",
       "source": "billboard.com, cbsnews.com, stereogum.com"
     },
     {
       "date": "2026-04-11T19:24:00Z",
-      "title": "ElevenLabs: Ð´ÐµÐ»Ð°ÐµÑ Ð·Ð²ÑÐºÐ¸ Ðº Ð²Ð¸Ð´ÐµÐ¾ ÑÐ°Ð¼",
+      "title": "ElevenLabs: делает звуки к видео сам",
       "topic": "elevenlabs-video-to-sound-sfx",
-      "type": "ÑÐ¸ÑÐ°",
-      "slot": "ÑÑÐµÐ´Ð½Ð¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "фича",
+      "slot": "средний",
+      "ending": "комментарий",
       "source": "elevenlabs.io/blog/how-to-add-sound-effects-to-your-video-with-elevenlabs-video-to-sound-generator"
     },
     {
       "date": "2026-04-11T20:12:00Z",
-      "title": "ÐÐ°Ð¿ÑÑÐºÐ°ÐµÐ¼ Ð½ÐµÑÐºÐ¾Ð»ÑÐºÐ¾ Ð°Ð³ÐµÐ½ÑÐ¾Ð² Ð¿Ð°ÑÐ°Ð»Ð»ÐµÐ»ÑÐ½Ð¾ â Cursor 3",
+      "title": "Запускаем несколько агентов параллельно — Cursor 3",
       "topic": "cursor-3-agents-parallel-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
       "source": "cursor.com/blog/cursor-3"
     },
     {
       "date": "2026-04-12T10:02:00Z",
-      "title": "Google Ð·Ð°Ð¿ÑÑÑÐ¸Ð» AI-Ð°Ð³ÐµÐ½ÑÐ° Ð¿ÑÑÐ¼Ð¾ Ð½Ð° ÑÐµÐ»ÐµÑÐ¾Ð½. ÐÐµÐ· Ð¾Ð±Ð»Ð°ÐºÐ°. ÐÐµÑÐ¿Ð»Ð°ÑÐ½Ð¾",
+      "title": "Google запустил AI-агента прямо на телефон. Без облака. Бесплатно",
       "topic": "gemma4-agentic-on-device",
-      "type": "Ð¼Ð¸Ñ_ai",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
       "source": "the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/"
     },
     {
       "date": "2026-04-12T20:00:00Z",
-      "title": "ÐÐºÐ»ÑÑÐ°ÐµÐ¼ ÑÐ°Ð¼Ð¾Ð¾Ð±ÑÑÐµÐ½Ð¸Ðµ BugBot Ð² Cursor",
+      "title": "Включаем самообучение BugBot в Cursor",
       "topic": "cursor-bugbot-learned-rules",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
       "source": "cursor.com/blog/bugbot-learning"
     },
     {
       "date": "2026-04-12T20:19:00Z",
-      "title": "Octopus Energy Ð°Ð²ÑÐ¾Ð¼Ð°ÑÐ¸Ð·Ð¸ÑÐ¾Ð²Ð°Ð» 44% ÐºÐ»Ð¸ÐµÐ½ÑÑÐºÐ¾Ð³Ð¾ ÑÐ°Ð¿Ð¿Ð¾ÑÑÐ° ÑÐµÑÐµÐ· ChatGPT",
+      "title": "Octopus Energy автоматизировал 44% клиентского саппорта через ChatGPT",
       "topic": "octopus-energy-chatgpt-support-automation",
-      "type": "ÐºÐµÐ¹Ñ",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "Ð²Ð¾Ð¿ÑÐ¾Ñ",
+      "type": "кейс",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
       "source": "aiexpert.network/case-study-enhanced-customer-service-through-ai-at-octopus-energy"
     },
     {
       "date": "2026-04-14T20:10:00Z",
-      "title": "ÐÐµÐ¹Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑÐ¸ÐºÐ°: Ð¿Ð°Ð¹Ð¿Ð»Ð°Ð¹Ð½ Ð½Ð° Ð¼ÐµÑÑÑ Ð¾Ñ Ð·Ð°Ð¼ÐµÑÐ¾Ðº Ð´Ð¾ Ð°Ð²ÑÐ¾Ð¿Ð¸Ð»Ð¾ÑÐ°",
+      "title": "Кейс подписчика: пайплайн на месяц от заметок до автопилота",
       "topic": "subscriber-case-katalon-claude-pipeline",
-      "type": "ÐºÐµÐ¹Ñ",
-      "slot": "Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹",
+      "type": "кейс",
+      "slot": "дневной",
       "source": "subscriber",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "ending": "комментарий",
       "product": "Claude"
     },
     {
       "date": "2026-04-15T10:12:39Z",
-      "title": "Gemini Ð² Chrome ÑÐµÐ¿ÐµÑÑ Ð·Ð°Ð¿Ð¾Ð¼Ð¸Ð½Ð°ÐµÑ Ð¿ÑÐ¾Ð¼Ð¿ÑÑ",
+      "title": "Gemini в Chrome теперь запоминает промпты",
       "topic": "gemini-chrome-skills",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "Ð²Ð¾Ð¿ÑÐ¾Ñ",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "вопрос",
       "source": "the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/"
     },
     {
       "date": "2026-04-15T11:02:05Z",
-      "title": "Ð£Ð±Ð¸Ð¹ÑÐ° ÑÐ»ÐµÐ¿ÑÑ Ð·Ð¾Ð½: Ð¿ÑÐ¾Ð¼Ð¿Ñ Ð´Ð»Ñ Ð¿ÑÐ¾Ð²ÐµÑÐºÐ¸ Ð¸Ð´ÐµÐ¸ Ð² ChatGPT",
+      "title": "Убийца слепых зон: промпт для проверки идеи в ChatGPT",
       "topic": "chatgpt-devil-advocate-idea-prompt",
-      "type": "Ð¿ÑÐ¾Ð¼Ð¿Ñ",
-      "slot": "ÑÑÐµÐ´Ð½Ð¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "промпт",
+      "slot": "средний",
+      "ending": "комментарий",
       "source": "original"
     },
     {
       "date": "2026-04-17T14:16:00Z",
-      "title": "Krea AI: Ð²ÐµÐ±ÐºÐ°Ð¼ÐµÑÐ° ÐºÐ°Ðº Ð¶Ð¸Ð²Ð°Ñ Ð°ÑÑ-Ð¸Ð½ÑÑÐ°Ð»Ð»ÑÑÐ¸Ñ",
+      "title": "Krea AI: вебкамера как живая арт-инсталляция",
       "topic": "krea-ai-realtime-canvas-webcam",
-      "type": "ÑÐ¸ÑÐ°",
-      "slot": "ÑÑÐµÐ´Ð½Ð¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "фича",
+      "slot": "средний",
+      "ending": "комментарий",
       "source": "krea.ai/blog/realtime-edit"
     },
     {
       "date": "2026-04-17T18:20:00Z",
-      "title": "ByteDance ÑÐ¸ÑÐ¾ Ð·Ð°Ð¿ÑÑÑÐ¸Ð» Ð²Ð¸Ð´ÐµÐ¾Ð³ÐµÐ½ÐµÑÐ°ÑÐ¾Ñ Ð² 100+ ÑÑÑÐ°Ð½Ð°Ñ. ÐÑÐ¾Ð¼Ðµ Ð¡Ð¨Ð",
+      "title": "ByteDance тихо запустил видеогенератор в 100+ странах. Кроме США",
       "topic": "seedance-2-global-launch-no-us",
-      "type": "Ð¼Ð¸Ñ_ai",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
       "source": "https://the-decoder.com/bytedance-rolls-out-seedance-2-0-to-100-countries-but-keeps-the-us-off-the-list/"
     },
     {
       "date": "2026-04-17T20:39:00Z",
-      "title": "ÐÐ¸Ð·Ð°Ð¹Ð½ÐµÑÑ ÐºÐ»Ð¾Ð½Ð¸ÑÑÑÑ Ð±ÑÐµÐ½Ð´-Ð¼Ð°ÑÐºÐ¾ÑÐ° Ð² 30 ÑÑÐµÐ½Ð°Ñ Ð·Ð° Ð´ÐµÐ½Ñ ÑÐµÑÐµÐ· Midjourney",
+      "title": "Дизайнеры клонируют бренд-маскота в 30 сценах за день через Midjourney",
       "topic": "midjourney-v7-omni-reference-brand-mascot",
-      "type": "ÑÐ¾ÑÐºÐµÐ¹Ñ",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "шоукейс",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
       "source": "flowith.io/blog/midjourney-v7-consistent-characters-masterclass"
     },
     {
       "date": "2026-04-18T11:37:00Z",
-      "title": "Ð Ð¾Ð±Ð¾Ñ, ÐºÐ¾ÑÐ¾ÑÑÐ¹ ÑÑÐ¸ÑÑÑ ÐºÐ°Ðº LLM",
+      "title": "Робот, который учится как LLM",
       "topic": "physical-intelligence-pi07-robot-llm",
-      "type": "Ð¼Ð¸Ñ_ai",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
       "source": "https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/"
     },
     {
       "date": "2026-04-19T10:59:00Z",
-      "title": "Claude ÑÐµÐ¿ÐµÑÑ ÐµÑÑ Ð¸ Ð´Ð¸Ð·Ð°Ð¹Ð½Ð¸Ñ",
+      "title": "Claude теперь ещё и дизайнит",
       "topic": "claude-design-launch",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "комментарий",
       "source": "techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/"
     },
     {
       "date": "2026-04-19T20:36:00Z",
-      "title": "ÐÐ°Ð¿ÑÑÐºÐ°ÐµÐ¼ Cloud Agent Ð² Cursor: ÐºÐ¾Ð´Ð¸ÑÑ ÑÐ°Ð¼, ÐÐ ÑÐ¸ÐºÑÐ¸Ñ Ð±Ð°Ð³Ð¸ Ð·Ð° ÑÐµÐ±Ñ",
+      "title": "Запускаем Cloud Agent в Cursor: кодишь сам, ИИ фиксит баги за тебя",
       "topic": "cursor-cloud-agents-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "Ð²Ð¾Ð¿ÑÐ¾Ñ",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
       "source": "https://cursor.com/blog/cloud-agents"
     },
     {
       "date": "2026-04-20T12:48:06Z",
-      "title": "AI Ð¼Ð¾Ð¶ÐµÑ Ð°ÑÑÐ¾ÑÐ¸ÑÐ¾Ð²Ð°ÑÑ Ð¼Ð¾Ð·Ð³. ÐÑÐºÐ²Ð°Ð»ÑÐ½Ð¾.",
+      "title": "AI может атрофировать мозг. Буквально.",
       "topic": "ai-erodes-problem-solving-skills-study",
-      "type": "Ð¼Ð¸Ñ_ai",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
       "source": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
     },
     {
       "date": "2026-04-20T18:12:00Z",
-      "title": "Money Forward Ð¿Ð¾ÑÐ°Ð´Ð¸Ð» 1000 Ð¸Ð½Ð¶ÐµÐ½ÐµÑÐ¾Ð² Ð½Ð° Cursor Ð¸ ÑÑÐ¸ÑÐ°ÐµÑ ÑÐ°ÑÑ",
+      "title": "Money Forward посадил 1000 инженеров на Cursor и считает часы",
       "topic": "money-forward-cursor-1000-engineers",
-      "type": "ÐºÐµÐ¹Ñ",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "Ð²Ð¾Ð¿ÑÐ¾Ñ",
+      "type": "кейс",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
       "source": "cursor.com/blog/money-forward",
       "product": "Cursor"
     },
     {
       "date": "2026-04-20T18:24:00Z",
-      "title": "Higgsfield Ð³ÐµÐ½ÐµÑÐ¸Ñ 4,5 Ð¼Ð»Ð½ Ð²Ð¸Ð´ÐµÐ¾ Ð² Ð´ÐµÐ½Ñ ÑÐµÑÐµÐ· ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ AI-Ð°Ð³ÐµÐ½ÑÐ¾Ð²",
+      "title": "Higgsfield генерит 4,5 млн видео в день через команду AI-агентов",
       "topic": "higgsfield-multi-agent-sora2-pipeline",
-      "type": "ÑÐ¾ÑÐºÐµÐ¹Ñ",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "шоукейс",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
       "source": "eu.36kr.com/en/p/3650517574312323, vo3ai.com/blog/higgsfield-ignites-a-new-wave",
       "product": "Higgsfield"
     },
     {
       "date": "2026-04-20T14:55:20Z",
-      "title": "ÐÐ°ÑÑÐ¾Ð²Ð°Ñ Ð¾Ð·Ð²ÑÑÐºÐ° ÑÐµÑÐµÐ· ElevenLabs Ð¸ Make: 100 ÑÐ¾Ð»Ð¸ÐºÐ¾Ð² Ð·Ð° ÑÐ°Ñ",
+      "title": "Массовая озвучка через ElevenLabs и Make: 100 роликов за час",
       "topic": "elevenlabs-make-sheets-bulk-voiceover-pipeline",
-      "type": "ÑÐ¾ÑÐºÐµÐ¹Ñ",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "шоукейс",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
       "source": "https://www.make.com/en/templates/10867-generate-voice-overs-with-elevenlabs-from-wordpress-articles-and-upload-links-to-a-google-sheet"
     },
     {
       "date": "2026-04-20T15:23:00Z",
-      "title": "FLUX Kontext: 100 Ð±ÑÐµÐ½Ð´Ð¾Ð²ÑÑ ÑÐ¾ÑÐ¾ ÑÐ¾Ð²Ð°ÑÐ° Ð·Ð° 20 Ð¼Ð¸Ð½ÑÑ Ð·Ð° $4",
+      "title": "FLUX Kontext: 100 брендовых фото товара за 20 минут за $4",
       "topic": "flux-kontext-fal-sheets-bulk-product-shots",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
       "source": "https://bfl.ai/announcements/flux-1-kontext"
     },
     {
       "date": "2026-04-21T13:22:00Z",
-      "title": "ChatGPT Ð·Ð°Ð¿Ð¾Ð¼Ð½Ð¸Ñ ÑÐµÐ¼ ÑÑ Ð·Ð°Ð½Ð¸Ð¼Ð°Ð»ÑÑ. Ð¡Ð°Ð¼.",
+      "title": "ChatGPT запомнит чем ты занимался. Сам.",
       "topic": "chatgpt-codex-chronicle",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "Ð²Ð¾Ð¿ÑÐ¾Ñ",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "вопрос",
       "source": "https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/",
       "product": "ChatGPT"
     },
     {
       "date": "2026-04-21T13:50:00Z",
-      "title": "Canva AI 2.0: Ð¸Ð· ÑÐµÐ´Ð°ÐºÑÐ¾ÑÐ° â Ð² Ð°Ð³ÐµÐ½ÑÐ°",
+      "title": "Canva AI 2.0: из редактора — в агента",
       "topic": "canva-ai-2-agentic-design",
-      "type": "Ð¼Ð¸Ñ_ai",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
       "source": "https://siliconangle.com/2026/04/16/canva-unveils-canva-ai-2-0-recasting-platform-agentic-system-work/",
       "product": "Canva"
     },
     {
       "date": "2026-04-21T16:16:06Z",
-      "title": "Ð¡Ð²Ð¾Ð¹ Skill Ð² Claude Ð·Ð° 10 Ð¼Ð¸Ð½ÑÑ",
+      "title": "Свой Skill в Claude за 10 минут",
       "topic": "claude-skills-custom-setup-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
       "source": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples, https://support.claude.com/en/articles/12512198-how-to-create-custom-skills"
     },
     {
       "date": "2026-04-22T16:13:44Z",
-      "title": "Ð¤Ð¾ÑÐ¼ÑÐ»Ð° Suno AI Ð¸Ð· 7 ÑÐ»ÐµÐ¼ÐµÐ½ÑÐ¾Ð², ÐºÐ¾ÑÐ¾ÑÐ°Ñ Ð´Ð°ÑÑ 3 Ð¼Ð»Ð½ ÑÑÑÐ¸Ð¼Ð¾Ð²",
+      "title": "Формула Suno AI из 7 элементов, которая даёт 3 млн стримов",
       "topic": "suno-7-element-prompt-formula-3m-streams",
-      "type": "ÑÐ¾ÑÐºÐµÐ¹Ñ",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "Ð²Ð¾Ð¿ÑÐ¾Ñ",
+      "type": "шоукейс",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
       "source": "https://travisnicholson.medium.com/this-single-suno-ai-prompt-generated-3m-streams-heres-how-3ca8c6cf081f",
       "product": "Suno"
     },
     {
       "date": "2026-04-23T13:23:50Z",
-      "title": "Ð Ð¾Ð·ÑÐ³ÑÑÑ Midjourney Pro Ð½Ð° Ð¼ÐµÑÑÑ",
+      "title": "Розыгрыш Midjourney Pro на месяц",
       "topic": "giveaway-midjourney-pro-month-apr23",
-      "type": "ÑÐ¾Ð·ÑÐ³ÑÑÑ",
-      "slot": "ÑÑÐµÐ´Ð½Ð¸Ð¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "розыгрыш",
+      "slot": "средний",
+      "ending": "комментарий",
       "source": "original",
       "product": "Midjourney"
     },
     {
       "date": "2026-04-23T17:43:51Z",
-      "title": "ÐÐ»Ð¾Ð½Ð¸ÑÑÐ¹ ÑÐµÐ±Ñ Ð² Higgsfield Soul ID Ð·Ð° 3 Ð¼Ð¸Ð½ÑÑÑ",
+      "title": "Клонируй себя в Higgsfield Soul ID за 3 минуты",
       "topic": "higgsfield-soul-id-guide",
-      "type": "Ð³Ð°Ð¹Ð´",
-      "slot": "ÑÑÐ¶ÑÐ»ÑÐ¹",
-      "ending": "ÐºÐ¾Ð¼Ð¼ÐµÐ½ÑÐ°ÑÐ¸Ð¹",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
       "source": "higgsfield.ai/blog/SOUL-ID-Superior-Level-of-AI-Character-Consistency"
     },
     {
       "date": "2026-04-24T09:46:32Z",
-      "title": "OpenAI Ð²ÑÐºÐ°ÑÐ¸Ð» GPT-5.5",
+      "title": "OpenAI выкатил GPT-5.5",
       "topic": "openai-gpt-5-5-launch-6weeks-after-54",
-      "type": "Ð½Ð¾Ð²Ð¾ÑÑÑ",
-      "slot": "Ð»ÑÐ³ÐºÐ¸Ð¹",
-      "ending": "Ð²Ð¾Ð¿ÑÐ¾Ñ",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "вопрос",
       "source": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/, https://openai.com/index/introducing-gpt-5-5/",
       "product": "ChatGPT"
     },
@@ -634,6 +634,15 @@
       "slot": "средний",
       "ending": "вопрос",
       "source": "https://elevenlabs.io/v3"
+    },
+    {
+      "date": "2026-04-25T17:18:12Z",
+      "title": "Лицо героя плывёт между кадрами в AI-видео? Чиним",
+      "topic": "veo-3-1-ingredients-character-consistency-guide",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
+      "source": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/"
     }
   ]
 }
