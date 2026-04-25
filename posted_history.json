@@ -625,6 +625,15 @@
       "slot": "лёгкий",
       "ending": "комментарий",
       "source": "https://api-docs.deepseek.com/news/news260424"
+    },
+    {
+      "date": "2026-04-25T13:14:20Z",
+      "title": "ElevenLabs v3: режиссёрские пометки прямо в скрипте",
+      "topic": "elevenlabs-v3-audio-tags-bracket-syntax-feature",
+      "type": "фича",
+      "slot": "средний",
+      "ending": "вопрос",
+      "source": "https://elevenlabs.io/v3"
     }
   ]
 }
