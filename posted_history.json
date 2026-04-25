@@ -616,6 +616,15 @@
       "slot": "тяжёлый",
       "ending": "комментарий",
       "source": "https://www.roborhythms.com/claude-n8n-workflow-2026/"
+    },
+    {
+      "date": "2026-04-25T09:15:01Z",
+      "title": "DeepSeek завёз V4. Миллионный контекст по умолчанию",
+      "topic": "deepseek-v4-preview-1m-context-launch",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "комментарий",
+      "source": "https://api-docs.deepseek.com/news/news260424"
     }
   ]
 }
