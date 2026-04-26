@@ -652,6 +652,15 @@
       "slot": "лёгкий",
       "ending": "комментарий",
       "source": "https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/"
+    },
+    {
+      "date": "2026-04-26T13:16:30Z",
+      "title": "Без какого AI работа стоит",
+      "topic": "engagement-without-which-ai-stuck-vote",
+      "type": "вовлечение",
+      "slot": "средний",
+      "ending": "вопрос",
+      "source": "original"
     }
   ]
 }
