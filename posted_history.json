@@ -643,6 +643,15 @@
       "slot": "тяжёлый",
       "ending": "вопрос",
       "source": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/"
+    },
+    {
+      "date": "2026-04-26T09:30:53Z",
+      "title": "Gemini завёл себе аналитика-ночника",
+      "topic": "gemini-deep-research-max-launch",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "комментарий",
+      "source": "https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/"
     }
   ]
 }
