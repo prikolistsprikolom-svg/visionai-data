@@ -697,6 +697,16 @@
       "slot": "тяжёлый",
       "ending": "комментарий",
       "source": "https://www.youtube.com/watch?v=sXgWhKwiUdc"
+    },
+    {
+      "date": "2026-04-28T16:00:06Z",
+      "title": "Midjourney V8.1 — изометрический пиксельный мир в стиле JRPG",
+      "topic": "midjourney-v8-isometric-pixel-art-jrpg-prompt",
+      "type": "фото_промпт",
+      "slot": "средний",
+      "ending": "комментарий",
+      "source": "aituts.com/midjourney-isometric, openart.ai/blog/midjourney-isometric-prompts",
+      "product": "Midjourney"
     }
   ]
 }
