@@ -710,11 +710,11 @@
     },
     {
       "date": "2026-04-28T16:54:17Z",
-      "title": "Запустили VisionAI. Сделали в Claude Design за вечер. Делимся промптом",
-      "topic": "visionai-launch-claude-design-brand-prompt-showcase-guide",
+      "title": "Попробовали Claude Design. Делимся рецептом",
+      "topic": "claude-design-recipe-brandbook-iteration-cycle-prompt-showcase-guide",
       "type": "шоукейс",
       "slot": "тяжёлый",
-      "ending": "вопрос",
+      "ending": "комментарий",
       "source": "https://www.anthropic.com/news/claude-design-anthropic-labs, subscriber",
       "product": "Claude"
     }
