@@ -726,6 +726,15 @@
       "slot": "средний",
       "ending": "комментарий",
       "source": "https://www.anthropic.com/news/claude-for-creative-work"
+    },
+    {
+      "date": "2026-04-30T09:11:43Z",
+      "title": "«shot on Canon 5D» в хвост, и кожа оживает",
+      "topic": "micro-tip-camera-spec-prompt-tail-realistic-skin-texture",
+      "type": "микро_совет",
+      "slot": "лёгкий",
+      "ending": "вопрос",
+      "source": "https://www.aiarty.com/midjourney-prompts/midjourney-photorealistic-prompts.htm, https://medium.com/@libelune/the-camera-settings-in-midjourney-prompts-canon-eos-part-1-82df01bb42fc"
     }
   ]
 }
