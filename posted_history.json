@@ -717,6 +717,15 @@
       "ending": "комментарий",
       "source": "https://www.anthropic.com/news/claude-design-anthropic-labs, subscriber",
       "product": "Claude"
+    },
+    {
+      "date": "2026-04-30T06:56:44Z",
+      "title": "Claude теперь живёт в Blender, Adobe, Autodesk, SketchUp и Ableton",
+      "topic": "claude_creative_connectors_apr30",
+      "type": "фича",
+      "slot": "средний",
+      "ending": "комментарий",
+      "source": "https://www.anthropic.com/news/claude-for-creative-work"
     }
   ]
 }
