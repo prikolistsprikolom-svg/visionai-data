@@ -744,6 +744,15 @@
       "slot": "средний",
       "ending": "комментарий",
       "source": "original"
+    },
+    {
+      "date": "2026-04-30T17:10:20Z",
+      "title": "Cursor Agent правит не те файлы. Включи Plan Mode",
+      "topic": "cursor-plan-mode-shift-tab-agent-guide",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "вопрос",
+      "source": "https://cursor.com/blog/plan-mode"
     }
   ]
 }
