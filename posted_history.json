@@ -753,6 +753,15 @@
       "slot": "тяжёлый",
       "ending": "вопрос",
       "source": "https://cursor.com/blog/plan-mode"
+    },
+    {
+      "date": "2026-05-01T13:18:11Z",
+      "title": "ChatGPT — тот самый коллаж в стиле Instagram editorial",
+      "topic": "chatgpt-gpt-image-cinematic-collage-portrait-prompt",
+      "type": "фото_промпт",
+      "slot": "средний",
+      "ending": "вопрос",
+      "source": "https://rajantemplate.com/trending-cinematic-collage-ai-photo-editing-prompts/"
     }
   ]
 }
