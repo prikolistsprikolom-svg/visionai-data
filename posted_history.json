@@ -762,6 +762,15 @@
       "slot": "средний",
       "ending": "вопрос",
       "source": "https://rajantemplate.com/trending-cinematic-collage-ai-photo-editing-prompts/"
+    },
+    {
+      "date": "2026-05-02T12:14:51Z",
+      "title": "У Grok прорезался Imagine Agent",
+      "topic": "xai-grok-4-3-imagine-agent-mode-canvas-launch",
+      "type": "новость",
+      "slot": "лёгкий",
+      "ending": "комментарий",
+      "source": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/"
     }
   ]
 }
