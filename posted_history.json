@@ -780,6 +780,15 @@
       "slot": "тяжёлый",
       "ending": "комментарий",
       "source": "https://www.vo3ai.com/blog/higgsfield-marketing-studio-shakes-up-ai-video-ads-seamless-product-to-commercia-2026-04-14"
+    },
+    {
+      "date": "2026-05-03T09:25:07Z",
+      "title": "У Мистраля теперь облачные дев-агенты",
+      "topic": "mistral-medium-3-5-le-chat-work-mode-vibe-remote-agents",
+      "type": "мир_ai",
+      "slot": "лёгкий",
+      "ending": "вопрос",
+      "source": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"
     }
   ]
 }
