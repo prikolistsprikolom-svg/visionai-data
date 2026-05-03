@@ -789,6 +789,15 @@
       "slot": "лёгкий",
       "ending": "вопрос",
       "source": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"
+    },
+    {
+      "date": "2026-05-03T13:15:51Z",
+      "title": "Что бесит в AI-чатах сильнее всего",
+      "topic": "engagement-what-pisses-off-in-ai-chats-vote-may03",
+      "type": "вовлечение",
+      "slot": "средний",
+      "ending": "вопрос",
+      "source": "original"
     }
   ]
 }
