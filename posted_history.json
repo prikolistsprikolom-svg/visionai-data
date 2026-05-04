@@ -798,6 +798,15 @@
       "slot": "средний",
       "ending": "вопрос",
       "source": "original"
+    },
+    {
+      "date": "2026-05-04T08:40:06Z",
+      "title": "📋 Подкидываем Gemini трюк EFFORT LEVEL",
+      "topic": "gemini-effort-level-system-prompt-prefix-trick-guide",
+      "type": "гайд",
+      "slot": "тяжёлый",
+      "ending": "комментарий",
+      "source": "https://piunikaweb.com/2026/03/09/gemini-3-1-pro-hidden-effort-level-prompt/"
     }
   ]
 }
